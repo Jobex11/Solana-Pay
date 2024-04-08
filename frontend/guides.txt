@@ -1,0 +1,49 @@
+===== SOLANA CASH APP  ==== 
+time: 1:32:45
+
+1 GETTING PHANTOM WALLET 
+time: 4:12
+
+--> could not change from main net to dev net
+
+
+
+3. USING SOLANA PAY 
+time: 41:33 
+
+
+
+
+
+4. STORING TRANSACTION USING OUR LOCAL HOST INSTEAD OF DATABASE 
+time: 1:01:00 
+
+if you see anything like error 
+press  localStorage.clear() on the console
+
+
+
+5. ADDING QR CODE 
+time: 1:16:47 
+
+
+
+
+===== NPM INSTALLATIONS ======
+
+===== NOTES AND FURTHER LEARNING === 
+ - pointer teaches you more on how to use solana pay.  
+ Learn more about them. 
+ - LEARN GENERATING QR CODE FOR SOLANA AND ETHEREUM
+
+===>  YOU CAN UPGRADE THIS CODE TO ACCEPTING SOLANA PAYMENT IN E-SHOP 
+
+
+account 1 ->9iEwXkJiycXrCBxF8eGdmbsiY7NH7RMNTRZjdB38Xwed
+account 2 ->9iEwXkJiycXrCBxF8eGdmbsiY7NH7RMNTRZjdB38Xwed
+account 3 ->GAti4sa3gUDTb2AjA4et6MCJQ88NWLJXpFVPMXoizBKF
+
+
+solfare recovery phrase 
+
+abstract receive offer gas upper logic parent plug vicious final grunt expect
